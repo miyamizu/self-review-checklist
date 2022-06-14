@@ -4,21 +4,21 @@ cmd 0 100%表示
 
 ## 表示方法を変更する
 
-表示 → アウトライン表示
-　 cmd y
-　スクリーンモード
+- 表示 → アウトライン表示
+- cmd y
+- スクリーンモード
 
 ## オブジェクトの選択
 
-全部　 cmd a
+- 全部　 cmd a
 
 ## オブジェクトの削除と取り消し
 
-del
+- del
 
 ## 保存
 
-ctrl s
+- ctrl s
 
 ---
 
@@ -26,20 +26,31 @@ Web は RGB
 CMYK
 
 色と線を変更できる
+![image](https://user-images.githubusercontent.com/33531901/173570210-450db076-2888-4833-bcc9-55d75192df59.png)
+
+色と線を変更できる
 
 ## 四角
 
 Shift を押しながらだと正方形
+![image](https://user-images.githubusercontent.com/33531901/173570230-a76daeaf-2891-42da-9903-dafabab07602.png)
+
 
 ## 角丸長方形の作り方
 
 真ん中のくさりマークは角丸の連動
+![image](https://user-images.githubusercontent.com/33531901/173570248-f3c2a27d-605a-46f7-948d-bcf903824493.png)
+
 
 ## 長押し
 
 option を押すと中心を起点に円を描ける
+![image](https://user-images.githubusercontent.com/33531901/173570268-6b340887-e033-49e8-b6a4-cb4425af7702.png)
+
 
 ## 塗りと線の入れ替え
+![image](https://user-images.githubusercontent.com/33531901/173570281-ae055873-5805-459a-904e-d77bf645ed8c.png)
+
 
 ## オブジェクトを複製
 
@@ -62,6 +73,8 @@ cmd [
 　 cmd ]
 
 ## オブジェクトの拡大・縮小
+![image](https://user-images.githubusercontent.com/33531901/173570306-6c0bf1f4-c074-43ae-86d2-a8413e9702e1.png)
+
 
 ---
 
@@ -133,20 +146,27 @@ cmd [
 ---
 
 ## 回転ツールを使用する
+![image](https://user-images.githubusercontent.com/33531901/173570333-7b667a41-0ef5-4115-b59c-27abb2464715.png)
+
 
 ## 拡大・縮小ツールを使用する
+![image](https://user-images.githubusercontent.com/33531901/173570340-37ef82e6-1449-489e-bb3a-3a22f4b6e49d.png)
+
 
 ## リフレクトツールを使用する
 
 オブジェクトを反転するツール
+![image](https://user-images.githubusercontent.com/33531901/173570354-b1f6c74a-1f43-48ae-87a1-40267e358f6c.png)
+
 
 ## シアーツールを使用する
 
 オブジェクトを歪める
 
 ## 変形パネルを使用する
+ウィンドウ → 変形
+![image](https://user-images.githubusercontent.com/33531901/173570372-e70f57b9-82cf-4d89-b258-cf76111e5425.png)
 
-## ウィンドウ → 変形
 
 ## 複数オブジェクトの一括変形
 
@@ -166,9 +186,15 @@ cmd [
 （パスの変形などで、見せかけの形になっているパスを、その形のオブジェクトにする）
 　オブジェクト → アピアランスを分割
 
+![image](https://user-images.githubusercontent.com/33531901/173570406-d4071ee3-19a4-48bd-bea5-e7090851065a.png)
+
+
 ## クリッピングマスクを使用する
 
 マスクをしたい範囲をオブジェクトを選択し、「クリッピングマスク」を選択
+
+![image](https://user-images.githubusercontent.com/33531901/173570429-6406706c-1eb8-4d6a-9bb8-c2e5195c343f.png)
+
 
 ## シンボルパネルを使用する
 
@@ -189,47 +215,66 @@ cmd [
 ## 直線ツールを使用する
 
 直線が描ける。シフトキーを押すと水平方向に線が引ける。
+![image](https://user-images.githubusercontent.com/33531901/173570443-a9d0f662-ee35-47f0-b5e2-7836c2b01241.png)
+
 
 ## 線の形状を変更する
 
 ウィンドウ → 線 → 線　オプションを表示する
 　線の先端を丸くしたりできる
+ 
+ ![image](https://user-images.githubusercontent.com/33531901/173570458-26dfee15-0c60-4450-8f49-3c90f9c9c6c8.png)
+
 
 ## 波線などを描く
 
 点線だったらこの設定にする
+![image](https://user-images.githubusercontent.com/33531901/173570471-e6530046-152b-4b6d-b81f-ed2b7a6dddc4.png)
+
 
 ## 鉛筆ツールを使用する
 
 後からスムーズツールを追加することもできる
+![image](https://user-images.githubusercontent.com/33531901/173570483-61bbd3d0-5d47-45e4-ac70-09279cc5ec0d.png)
+
 
 ## ブラシツール
-
+![image](https://user-images.githubusercontent.com/33531901/173570496-5fe32ef1-fad4-46e8-a79d-792d54329a17.png)
 自分でブラシを作って登録することもできる
+![image](https://user-images.githubusercontent.com/33531901/173570573-95a4ce1e-63bb-456d-ba10-20f4c2f5eaa3.png)
+
+
 
 ## アピアランスを使用する
 
 線の上に線を乗せたりできる
 任意の線に、丸を cmd キーを押しながらドラッグするとアピアランスを適用できる
+![image](https://user-images.githubusercontent.com/33531901/173570592-8c127c0b-0419-49f6-9df0-e597f6aeb4c3.png)
+
 
 ## 袋文字を作成する
 
 ウィンドウ → 書式 → 文字
 
-## 袋文字
+袋文字
+![image](https://user-images.githubusercontent.com/33531901/173570606-52448e0a-a7bb-4e4f-ab5f-99b8645d2d54.png)
+
 
 ## パスに変換する
 
 オブジェクト → アピアランスを分割
 　オブジェクト → パス → パスのアウトライン
 
-## 全体を変換したい場合は、アピアランスに変換する
+全体を変換したい場合は、アピアランスに変換する
+![image](https://user-images.githubusercontent.com/33531901/173570634-e4fb1717-95ff-4692-827a-a90f96d0ded0.png)
 
-## 個別で変形したい場合は、パスに変換する
+
+個別で変形したい場合は、パスに変換する
+![image](https://user-images.githubusercontent.com/33531901/173570646-3e822007-930c-42f4-af3b-be6b74f3a554.png)
 
 ## 透明パネルを使用する
-
-## オブジェクトを透明・半透明にできる
+オブジェクトを透明・半透明にできる
+![image](https://user-images.githubusercontent.com/33531901/173570677-7ab0cd44-6cfd-41cd-b166-faaac45c2ca7.png)
 
 ## 写真を配置する
 
