@@ -1,29 +1,43 @@
 ---
 ## 拡大縮小
+上の方
 
 上の方
 
 ## ブラシツール
 
 ## ヒストリーパネル
+![image](https://user-images.githubusercontent.com/33531901/173570945-c5e2e1ca-fd89-4fd2-9863-444bb33d42ab.png)
+
 
 ## 描画色と背景色を理解する
+![image](https://user-images.githubusercontent.com/33531901/173570961-bacc318d-0f56-483d-ac4a-7880d1fe9688.png)
+
 
 ## 選択範囲の作成・解除を行う
 　選択した範囲だけブラシが適用している
+ ![image](https://user-images.githubusercontent.com/33531901/173570982-43a6c01a-0ffa-4698-9764-4d1fabb16f7d.png)
+
 
 移動もできる
+![image](https://user-images.githubusercontent.com/33531901/173570995-8161f067-e3a4-4ba0-ad95-af78128d9f89.png)
+
 
 ## 移動ツール
 　選択した範囲を移動することができる
 
 cmd + d で選択範囲を解除
+![image](https://user-images.githubusercontent.com/33531901/173571016-2b92187d-9aae-4a1a-b292-9f50dde89a69.png)
+
 
 ## 自動選択ツール
 　クリックしたところと同じ/近い色が選択される
 　許容値を減らすともっと近い色だけ選択される
 　 Shift キーを押しながら選択
 　 option キーを押すと、解除できる
+
+![image](https://user-images.githubusercontent.com/33531901/173571032-c069ba92-fff3-4103-871c-2b43ba1bc5c6.png)
+
 
 ## クイックマスクを使用する
 　なげなわツールで大体被写体を選択する
@@ -48,6 +62,8 @@ cmd + d で選択範囲を解除
 ## レベル補正
 　イメージ → 色調補正 → レベル補正
 　画像の明るさを変更できる
+![image](https://user-images.githubusercontent.com/33531901/173571058-22789206-5eac-429f-91e6-c7b199c8b63a.png)
+
 
 ## トーンカーブを使用する
 　イメージ → 色調補正 → トーンカーブ
@@ -111,9 +127,11 @@ cmd + d で選択範囲を解除
 壁にちょっと斜めにしてロゴを貼れたりする。
 　フィルター →Vanshing Point
 
+
 ## 描画モードを使用する
 
 下のレイヤーと馴染ませる
+
 
 ## レイヤーを統合する
 
@@ -140,6 +158,8 @@ cmd + d で選択範囲を解除
 ## カスタムシェイプを使用する
 
 矢印とか使える
+![image](https://user-images.githubusercontent.com/33531901/173571139-e81d8523-4121-47fc-b007-1aae1d2d2e26.png)
+
 
 ## グループレイヤーを使用する
 
@@ -167,6 +187,9 @@ cmd + d で選択範囲を解除
 選択 → レイヤー → レイヤーマスク
 　選択範囲以外をマスクすることができる
 　選択範囲は移動することができる
+ 
+ ![image](https://user-images.githubusercontent.com/33531901/173571170-b9fc801c-3448-43b3-917b-b76795db6089.png)
+
 
 ## クリッピングマスクを使用する
 
