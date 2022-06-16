@@ -18,11 +18,16 @@
 - kubectl proxy
 - kubectl logs \$POD_NAME
 - kubectl exec \$POD_NAME
+![image](https://user-images.githubusercontent.com/33531901/173571314-8c7fe7ce-ab0a-4910-8270-52af7719fbe1.png)
+
 
 ## アプリケーションを Service で公開
 
 - kubectl get services
 - kubectl describe deployment
+
+<img width="579" alt="image" src="https://user-images.githubusercontent.com/33531901/173571331-5607cd86-1820-4edf-b590-2c1c752c25f9.png">
+
 
 ## ReplicaSet でサービスをスケーリング
 
