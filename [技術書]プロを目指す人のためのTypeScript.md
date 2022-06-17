@@ -19,7 +19,39 @@
 
 - https://www.typescriptlang.org/play に色々書いていく。
 
-## 2 章
+## 2 章 基本的な文法・基本的な型
+
+### 式と文
+
+```
+const greeting = "Hello"; // 文
+const text = greeting + "world"; // 文 ... 結果がない
+console.log(text); //Hello, world! // 式 ... 結果がある
+console.log(greeting + target); // 式文 ... 式の後にセミコロンを書く文
+```
+
+### 識別子
+
+- \$, \_ ,先頭以外の大文字、大文字小文字が使える
+
+### 型注釈
+
+```
+const 変数: 型 = 式; // :型の部分が型注釈
+```
+
+### let
+
+- let は宣言時に値を代入しなくても良い
+- let にも型をつけられる
+- 絶対に let が必要だと断言できるとき以外、なるべく const を使う
+
+```
+let greeting: string, target: string;
+greeting = "Hello, ";
+target = "world!";
+console.log(greeting + target);
+```
 
 ## 3 章
 
@@ -34,3 +66,7 @@
 ## 8 章
 
 ## 9 章
+
+```
+
+```
