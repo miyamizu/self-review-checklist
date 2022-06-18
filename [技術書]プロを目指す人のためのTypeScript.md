@@ -146,18 +146,24 @@ console.log(`secretは${secret}です`);
 
 ## FizzBazz
 
-```
+`let result: string = "";
+
 for (let i = 1; i < 100; i++) {
-  if (i%3 === 0 && i%5 === 0) {
-    console.log('FizzBazz')
-  } else if (i%3 === 0) {
-    console.log('Fizz')
-  } else if (i%5 === 0) {
-    console.log('Bazz')
-  } else {
-    console.log(i);
-  };
+// result += " ";だけじゃダメだった。
+if (i > 1) {
+result += ' ';
+}
+if (i%3 === 0 && i%5 === 0) {
+result += 'FizzBazz'
+} else if (i%3 === 0) {
+result += 'Fizz'
+} else if (i%5 === 0) {
+result += 'Bazz'
+} else {
+result += String(i);
 };
+};
+
 ```
 
 ## 3 章
@@ -173,6 +179,8 @@ for (let i = 1; i < 100; i++) {
 ## 8 章
 
 ## 9 章
+
+```
 
 ```
 
