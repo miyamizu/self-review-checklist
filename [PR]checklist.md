@@ -20,6 +20,10 @@
 
 ## フロントエンド
 
+### tara
+
+- persisted-queries は 1 個だけ？
+
 ### CSS
 
 - [ ] 最上位の要素に margin を書いていないか
